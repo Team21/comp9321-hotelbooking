@@ -1,0 +1,65 @@
+<class-diagram version="1.0.8" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true">  
+  <class id="1" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.BookingBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/BookingBean.java" binary="false">    
+    <position height="-1" width="-1" x="647" y="694"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="2" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.HotelBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/HotelBean.java" binary="false">    
+    <position height="504" width="285" x="761" y="-53"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="3" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.RecordBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/RecordBean.java" binary="false">    
+    <position height="544" width="346" x="407" y="-53"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="4" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.RoomBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/RoomBean.java" binary="false">    
+    <position height="-1" width="-1" x="885" y="713"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="5" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.RoomCalendarBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/RoomCalendarBean.java" binary="false">    
+    <position height="-1" width="-1" x="794" y="1119"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="6" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.RoomTypeBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/RoomTypeBean.java" binary="false">    
+    <position height="-1" width="-1" x="275" y="790"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class id="7" corner="BOTTOM_RIGHT" language="java" name="assn2.beans.UserBean" project="9321_assn2" 
+    file="/9321_assn2/src/assn2/beans/UserBean.java" binary="false">    
+    <position height="561" width="348" x="53" y="-53"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
